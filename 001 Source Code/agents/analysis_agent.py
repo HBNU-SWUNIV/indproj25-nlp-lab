@@ -12,8 +12,6 @@ def analyser_agent(state: GraphState) -> dict:
     - 멀티모달 입력(이미지 + 로그) 처리
     - 탐지된 객체, 위치, 화재/연기 정보 구조화
     - 증거 기반 분석 결과 생성
-    
-    참고: Multimodal RAG (2025)
     """
     logger.info("\n[ANALYSER] 분석 시작...")
     
