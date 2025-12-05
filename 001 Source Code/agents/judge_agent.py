@@ -15,8 +15,6 @@ def judge_agent(state: GraphState) -> dict:
    - 근거 기반 점수화 (1-5점)
    - 개선을 위한 구체적 피드백 생성
    - 총점 16점 이상 시 승인, 미만 시 재평가 요청
-   
-   참고: Agent-as-a-Judge (2024)
    """
    logger.info("\n[JUDGER] 보고서 평가 시작...")
    
