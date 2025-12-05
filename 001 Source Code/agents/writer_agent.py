@@ -11,8 +11,6 @@ def writer_agent(state: GraphState) -> dict:
    - 템플릿 기반 자연어 보고서 생성
    - Self-refine을 통한 문장 보완
    - 구조화된 형식 준수
-    
-   참고: ArchiDocGen (2025), Self-Refine (2024)
    """
    logger.info("\n[WRITER] 보고서 작성 시작...")
     
