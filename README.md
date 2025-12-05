@@ -42,7 +42,7 @@
     <img width="400" alt="Image" src="https://github.com/user-attachments/assets/82633593-3559-44f0-902b-70dc4ffb851a" />
   
 ## Conclusion
-  - ### 4단계 에이전트의 역할 분담과 반복적 피드백 워크플로우를 통해, 복잡한 멀티모달 태스크에서 발생하는 단일 VLM의 hallucination을 완화하고 결과 품질을 향상시킨다.
+-  4단계 에이전트의 역할 분담과 반복적 피드백 워크플로우를 통해, 복잡한 멀티모달 태스크에서 발생하는 단일 VLM의 hallucination을 완화하고 결과 품질을 향상시킨다.
   
 ## Project Outcome
 - ### 2025년 KSC(Korea Software Congress)
