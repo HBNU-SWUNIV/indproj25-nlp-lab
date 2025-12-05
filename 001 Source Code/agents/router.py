@@ -13,8 +13,6 @@ def router(state: GraphState) -> dict:
     - 전체 워크플로우 제어
     - Judger 평가 결과 기반 재분석/재작성/재평가/승인 결정
     - 최종 보고서 생성
-    
-    참고: ArchiDocGen (2025), MARG (2024)
     """
     logger.info("\n[ROUTER] 최종 판단 시작...")
     
